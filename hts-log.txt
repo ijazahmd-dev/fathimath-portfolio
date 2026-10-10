@@ -1,0 +1,22 @@
+HTTrack3.50-2 launched on Sun, 04 Oct 2026 17:43:45 at https://bermawy.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(httrack -q -%i -w https://bermawy.com/ -O "/home/ijaz/websites/Ijaz sis portfolio" -n -t -%P -p7 -N0 -s2 -p3 -D -a -K0 -c4 -%k -b0 -F "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -u1 -%s -%u -f2 -%I0 -%f )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:44:16	Error: 	"Forbidden" (403) at link https://cdn.prod.website-files.com/ (from https://bermawy.com/)
+17:44:16	Error: 	"Not Found" (404) at link https://fonts.googleapis.com/ (from https://bermawy.com/)
+17:44:16	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://bermawy.com/)
+17:44:18	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://bermawy.com/)
+17:44:18	Error: 	"Forbidden" (403) at link https://cdn.prod.website-files.com/6220244ad6c7a7e70fbf6593/icon-hamburger.svg (from https://bermawy.com/)
+17:44:51	Error: 	"Not Found" (404) at link https://bermawy.com/analytics.js (from https://bermawy.com/lsfr9no2cgfpNjIyMDI0NGFkNmM3YTdlNzBmYmY2NTkz/uVbVl1Zrwv4ysuHI0Mk4nPMKfCs)
+17:44:51	Warning: 	Moved Permanently for https://bermawy.com/_/service_worker/
+17:44:51	Warning: 	File has moved from https://bermawy.com/_/service_worker/ to https://bermawy.com/_/service_worker
+17:44:51	Error: 	"Not Found" (404) at link https://bermawy.com/sw_iframe.html (from https://bermawy.com/lsfr9no2cgfpNjIyMDI0NGFkNmM3YTdlNzBmYmY2NTkz/uVbVl1Zrwv4ysuHI0Mk4nPMKfCs)
+17:44:51	Error: 	"Not Found" (404) at link https://bermawy.com/gtm.js (from https://bermawy.com/lsfr9no2cgfpNjIyMDI0NGFkNmM3YTdlNzBmYmY2NTkz/uVbVl1Zrwv4ysuHI0Mk4nPMKfCs)
+17:45:00	Error: 	"Not Found" (404) at link https://bermawy.com/_/service_worker (from https://bermawy.com/_/service_worker/)
+
+HTTrack Website Copier/3.50-2 mirror complete in 1 minutes 23 seconds : 190 links scanned, 176 files written (24954045 bytes overall) [19426663 bytes received at 234056 bytes/sec], 10890583 bytes transferred using HTTP compression in 84 files, ratio 47%, 7.6 requests per connection
+(9 errors, 2 warnings, 0 messages)

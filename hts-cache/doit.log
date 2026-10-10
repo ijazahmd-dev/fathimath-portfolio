@@ -1,0 +1,8 @@
+-q -%i -w https://bermawy.com/ -O "/home/ijaz/websites/Ijaz sis portfolio" -n -t -%P -p7 -N0 -s2 -p3 -D -a -K0 -c4 -%k -b0 -F "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -u1 -%s -%u -f2 -%I0 -%f
+File generated automatically on Sun, 04 Oct 2026 17:43:45, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

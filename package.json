@@ -1,0 +1,13 @@
+{
+  "name": "fathimath-portfolio",
+  "version": "1.0.0",
+  "description": "Fathimath Zahra portfolio local server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "Fathimath Zahra",
+  "license": "ISC"
+}
